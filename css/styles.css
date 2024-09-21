@@ -58,3 +58,9 @@ circle {
   stroke-dasharray: 472;
   stroke-dashoffset: 0;
 }
+
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
